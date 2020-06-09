@@ -1,0 +1,10 @@
+{
+  "simulation": "SPR.SPRPerformanceTests",
+  "simulationId": "sprperformancetests",
+  "start": 1591439657210,
+  "description": "",
+  "scenarios": ["scn"],
+  "assertions": [
+
+  ]
+}
